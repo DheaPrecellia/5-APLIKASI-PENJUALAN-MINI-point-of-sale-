@@ -67,4 +67,6 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 **Universitas**: Universitas Ahmad Dahlan  
 
 ---
-Copyright © 2026 - Dilindungi Hak Cipta.
+<div align="center">
+    Copyright © 2026 - Dilindungi Hak Cipta
+</div>
