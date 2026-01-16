@@ -57,14 +57,13 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 
 ---
 
-## Identitas Pengembang
-Aplikasi ini dikembangkan oleh:
+## Kontributor
 
 **Nama**:  
   * Gunesti Ririn Wahyuci   (2400018255)  
   * Rahmatika Intan Nugroho (2400018268)  
   * Dhea Precellia          (2400018273)  
-  * Hilda Fildhah Izza F    (2400018284)  
+  * Hilda Fildhah Izza F    (2400018284)
 **Kelas**: E  
 **Program Studi**: Informatika  
 **Universitas**: Universitas Ahmad Dahlan  
