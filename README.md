@@ -41,7 +41,7 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 | Menu Utama | Form Transaksi |
 | :---: | :---: |
 | ![Menu Utama](<img width="781" height="693" alt="image" src="https://github.com/user-attachments/assets/bed3cfe7-ba1f-4a9f-9ba7-9347ac9e0017" />
-) | ![Transaksi](<img width="1383" height="987" alt="image" src="https://github.com/user-attachments/assets/7f464ea6-a90d-40ea-8b69-fe47d3307e3a" />
+) | ![Transaksi](<img width="781" height="693" alt="image" src="https://github.com/user-attachments/assets/7f464ea6-a90d-40ea-8b69-fe47d3307e3a" />
 ) |
 
 ---
@@ -69,10 +69,10 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 Project ini dikembangkan oleh:
 
 * **Nama**:
-* a. Gunesti Ririn Wahyuci   (2400018255)
-* b. Rahmatika Intan Nugroho (2400018268)
-* c. Dhea Precellia          (2400018273)
-* d. Hilda Fildhah Izza F    (2400018284)
+  a. Gunesti Ririn Wahyuci   (2400018255)
+  b. Rahmatika Intan Nugroho (2400018268)
+  c. Dhea Precellia          (2400018273)
+  d. Hilda Fildhah Izza F    (2400018284)
 * **Kelas**: E
 * **Program Studi**: Informatika
 * **Universitas**: Universitas Ahmad Dahlan
