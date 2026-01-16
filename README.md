@@ -58,14 +58,13 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 ---
 
 ## Identitas Pengembang
-
-Project ini dikembangkan oleh:
+Aplikasi ini dikembangkan oleh:
 
 **Nama**:  
-  a. Gunesti Ririn Wahyuci   (2400018255)  
-  b. Rahmatika Intan Nugroho (2400018268)  
-  c. Dhea Precellia          (2400018273)  
-  d. Hilda Fildhah Izza F    (2400018284)  
+  * Gunesti Ririn Wahyuci   (2400018255)  
+  * Rahmatika Intan Nugroho (2400018268)  
+  * Dhea Precellia          (2400018273)  
+  * Hilda Fildhah Izza F    (2400018284)  
 **Kelas**: E  
 **Program Studi**: Informatika  
 **Universitas**: Universitas Ahmad Dahlan  
