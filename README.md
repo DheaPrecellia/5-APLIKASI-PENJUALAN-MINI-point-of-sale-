@@ -46,8 +46,8 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
     git clone [https://github.com/DheaPrecellia/5-APLIKASI-PENJUALAN-MINI-point-of-sale-.git](https://github.com/DheaPrecellia/5-APLIKASI-PENJUALAN-MINI-point-of-sale-.git)
     ```
 2.  **Import Database**
-    * Buat database baru di phpMyAdmin/MySQL dengan nama `db_pos` (sesuaikan dengan kode).
-    * Import file SQL (jika ada) atau sesuaikan tabel dengan Entity produk dan transaksi.
+    * Buat database baru di phpMyAdmin/MySQL dengan nama `pos_db`.
+    * Import file SQL atau sesuaikan tabel dengan Entity produk dan transaksi.
 3.  **Konfigurasi Database**
     * Buka file `src/DatabaseConnection.java`.
     * Sesuaikan `url`, `user`, dan `password` database lokal Anda.
@@ -61,14 +61,14 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 
 Project ini dikembangkan oleh:
 
-**Nama**:
-  a. Gunesti Ririn Wahyuci   (2400018255)
-  b. Rahmatika Intan Nugroho (2400018268)
-  c. Dhea Precellia          (2400018273)
-  d. Hilda Fildhah Izza F    (2400018284)
-**Kelas**: E
-**Program Studi**: Informatika
-**Universitas**: Universitas Ahmad Dahlan
+**Nama**:  
+  a. Gunesti Ririn Wahyuci   (2400018255)  
+  b. Rahmatika Intan Nugroho (2400018268)  
+  c. Dhea Precellia          (2400018273)  
+  d. Hilda Fildhah Izza F    (2400018284)  
+**Kelas**: E  
+**Program Studi**: Informatika  
+**Universitas**: Universitas Ahmad Dahlan  
 
 ---
 Copyright © 2026 - Dilindungi Hak Cipta.
