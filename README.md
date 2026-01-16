@@ -8,8 +8,7 @@ Project ini disusun untuk memenuhi Tugas Akhir Mata Kuliah Pemrograman Berorient
 
 ## Deskripsi Project
 
-Aplikasi ini adalah sistem kasir sederhana berbasis desktop yang dibuat menggunakan bahasa pemrograman Java. Sistem ini dirancang untuk membantu UMKM atau toko kecil dalam mengelola inventaris barang, mencatat transaksi penjualan secara _real-time_, dan menghasilkan laporan keuangan otomatis.
-Penerapan konsep Object-Oriented Programming (OOP) dan integrasi dalam database menjadi fokus utama dalam pengembangan aplikasi ini.
+Aplikasi ini merupakan sistem kasir sederhana berbasis desktop yang dibuat menggunakan bahasa pemrograman Java. Sistem ini dirancang untuk membantu UMKM atau toko kecil dalam mengelola inventaris barang, mencatat transaksi penjualan secara _real-time_, dan menghasilkan laporan keuangan otomatis. Penerapan konsep Object-Oriented Programming (OOP) dan integrasi dalam database menjadi fokus utama dalam pengembangan aplikasi ini.
 
 ## Fitur Unggulan
 
@@ -36,13 +35,9 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 ---
 
 ## Screenshots
-*(Tampilan antarmuka aplikasi)*
-
 | Menu Utama | Form Transaksi |
 | :---: | :---: |
-| ![Menu Utama](<img width="781" height="693" alt="image" src="https://github.com/user-attachments/assets/bed3cfe7-ba1f-4a9f-9ba7-9347ac9e0017" />
-) | ![Transaksi](<img width="781" height="693" alt="image" src="https://github.com/user-attachments/assets/7f464ea6-a90d-40ea-8b69-fe47d3307e3a" />
-) |
+| ![Menu Utama]<img width="781" height="693" alt="image" src="https://github.com/user-attachments/assets/bed3cfe7-ba1f-4a9f-9ba7-9347ac9e0017" /> | ![Transaksi]<img width="781" height="693" alt="image" src="https://github.com/user-attachments/assets/7f464ea6-a90d-40ea-8b69-fe47d3307e3a" />|
 
 ---
 
