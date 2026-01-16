@@ -32,12 +32,10 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 * Menggunakan MySQL untuk penyimpanan data yang aman dan persisten.
 * Koneksi menggunakan JDBC Driver.
 
----
 
 ## Tampilan Utama Aplikasi
 <img width="581" height="493" alt="image" src="https://github.com/user-attachments/assets/bed3cfe7-ba1f-4a9f-9ba7-9347ac9e0017" /> 
 
----
 
 ## Cara Instalasi & Menjalankan
 
@@ -55,7 +53,6 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
     * Buka project di IntelliJ IDEA / NetBeans.
     * Jalankan file `Main.java`.
 
----
 
 ## Kontributor
 
