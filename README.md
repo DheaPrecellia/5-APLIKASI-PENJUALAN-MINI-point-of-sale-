@@ -64,6 +64,7 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
   * Rahmatika Intan Nugroho (2400018268)  
   * Dhea Precellia          (2400018273)  
   * Hilda Fildhah Izza F    (2400018284) <br>
+
 **Kelas**: E  
 **Program Studi**: Informatika  
 **Universitas**: Universitas Ahmad Dahlan  
