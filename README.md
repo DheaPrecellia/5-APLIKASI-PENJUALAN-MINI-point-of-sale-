@@ -34,10 +34,8 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 
 ---
 
-## Screenshots
-| Menu Utama | Form Transaksi |
-| :---: | :---: |
-| ![Menu Utama]<img width="781" height="693" alt="image" src="https://github.com/user-attachments/assets/bed3cfe7-ba1f-4a9f-9ba7-9347ac9e0017" /> | ![Transaksi]<img width="781" height="693" alt="image" src="https://github.com/user-attachments/assets/7f464ea6-a90d-40ea-8b69-fe47d3307e3a" />|
+## Tampilan Utama Aplikasi
+<img width="781" height="693" alt="image" src="https://github.com/user-attachments/assets/bed3cfe7-ba1f-4a9f-9ba7-9347ac9e0017" /> 
 
 ---
 
