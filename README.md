@@ -34,8 +34,9 @@ Berikut adalah fitur-fitur yang tersedia dalam aplikasi:
 
 
 ## Tampilan Utama Aplikasi
-<img width="581" height="493" alt="image" src="https://github.com/user-attachments/assets/bed3cfe7-ba1f-4a9f-9ba7-9347ac9e0017" /> 
-
+<div align="center">
+<img width="880" height="800" alt="Screenshot (1414)" src="https://github.com/user-attachments/assets/9f428515-c2bb-4a14-a103-251838363799" />
+</div>
 
 ## Cara Instalasi & Menjalankan
 
